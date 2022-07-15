@@ -1,24 +1,3 @@
-//SIMPLIFIED
-// const keyElement = document.getElementById('do');
-
-
-// function playSound(){
-//    console.log('Ciao suono');
-//    const audioElement = new Audio(); /*Create programmatically in JS an audio tag. Associate to it an audio file and reproduce it.  */
-//    audioElement.src = 'sounds/01-do.mp3';
-//    audioElement.play();
-// }
-
-
-// // Intercept user tab*
-// keyElement.addEventListener('touchend', function(){
-//     playSound();
-// });
-
-
-// DYNAMICAL AND PROGRAMMATICAL
-// Capture n elements through a common css selector
-
 const keyElements = document.querySelectorAll('.key');
 console.log(keyElements);
 
