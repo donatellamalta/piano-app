@@ -8,5 +8,6 @@ This is a piano web app created with basic knowledge of HTML, CSS and JavaScript
 
 At each key, the corresponding sound is associated though JavaScript and some visual movements are applied with CSS to simulate finger pressure. 
 
+You can try it [here](https://pianobool.netlify.app)! 
 
 
